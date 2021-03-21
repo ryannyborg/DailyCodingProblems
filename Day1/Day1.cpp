@@ -68,5 +68,5 @@ int main(){
     bool result = userNums.AnyPairEqToInput(arrSize);
     cout << "Result is " << boolalpha << result;
 
-    return 1;
+    return 0;
 }
